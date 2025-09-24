@@ -1,0 +1,6 @@
+soap\service\PeliculaService.class
+soap\dao\PeliculaDAO.class
+soap\endpoint\PeliculaPublisher.class
+soap\test\PeliculaTestClient.class
+soap\model\Pelicula.class
+soap\service\PeliculaServiceImpl.class
